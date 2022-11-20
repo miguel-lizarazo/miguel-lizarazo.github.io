@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit, metus nec sollicitudin mattis, leo felis dapibus turpis, in sodales odio nisi ac purus. Donec ac sem non libero lobortis elementum at nec est. Ut dictum ligula at aliquam consectetur. Sed condimentum placerat porttitor. Curabitur commodo et ante nec ultricies. Integer volutpat purus id ex tempus auctor. Maecenas lobortis orci sem, vel laoreet nunc porttitor malesuada.
 
