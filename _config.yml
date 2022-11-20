@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Blog", file: "/blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mializarazoca@unal.edu.co"}
+  - {title: Mail, icon: envelope, url: "mailto:mializarazoca@unal.edu.co"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mializarazoca/"}
   - {title: Github, icon: github, url: "https://github.com/miguel-lizarazo"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/mializarazoca"}
